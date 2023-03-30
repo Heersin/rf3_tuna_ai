@@ -35,6 +35,7 @@ Rune Factory 3 -- Tuna, Generate By so-vits-svc 4.0
 懂事时理解图恒宇
 成熟时成为图恒宇
 ```
+ <iframe type="music" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://github.com/Heersin/rf3_tuna_ai/raw/main/life_mix.wav"></iframe> 
 
 ## Celebration
 [Rune Factory3 for NS](https://asia.sega.com/rf3sp/cn/) ! Looking forward to new game also.
